@@ -68,7 +68,7 @@
           "_anchor": "msg-box8-8",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/new-zealand-2000x1333.jpg",
@@ -132,8 +132,8 @@
             "timeout": "7",
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/untitledqwqw-2000x1141.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sunrise-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -147,8 +147,8 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"ContactUs.html\" data-toolbar=\"-mbrBtnMove\">Ask us how</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/sunrise-2000x1125.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/new-zealand-2000x1528.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -162,7 +162,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/christchurch-2000x1182.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lighthouse-2000x1188.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -258,7 +258,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo11.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11-76x128.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
               "link": "Home.html",
@@ -352,13 +352,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chicken-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/noodles-600x397.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "Hala Food",
+              "alt": "Halal Food",
+              "title": "Halal Food",
               "linkInNewWindow": false
             }
           },
@@ -372,8 +372,8 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "#top",
-              "alt": "",
+              "link": "",
+              "alt": "Tour Guide",
               "title": "Tour Guide",
               "linkInNewWindow": false
             }
@@ -389,7 +389,7 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Transport",
               "title": "Transport",
               "linkInNewWindow": false
             }
@@ -520,7 +520,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo11.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11-76x128.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
               "link": "Home.html",
@@ -596,7 +596,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ayat-al-kursi.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sailing-2407303-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -617,12 +617,12 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chicken-600x4006.jpg",
+              "src": "@PROJECT_PATH@/assets/images/chicken-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Halal Food",
               "title": "Hala Food",
               "linkInNewWindow": false
             }
@@ -633,12 +633,12 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Find out More...</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-600x3987.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-600x398.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "#top",
-              "alt": "",
+              "link": "",
+              "alt": "Tour Guide",
               "title": "Tour Guide",
               "linkInNewWindow": false
             }
@@ -649,12 +649,12 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Find out More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fiat-600x4008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fiat-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Transport",
               "title": "Transport",
               "linkInNewWindow": false
             }
@@ -665,13 +665,13 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Find out More</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/notes.jpg",
+              "src": "@PROJECT_PATH@/assets/images/notes-514998-600x393.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Trip Planning",
+              "title": "Trip Planning",
               "linkInNewWindow": false
             }
           },
@@ -681,13 +681,13 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/house-of-allah.jpg",
+              "src": "@PROJECT_PATH@/assets/images/house-of-allah-600x408.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "More",
+              "title": "More",
               "linkInNewWindow": false
             }
           },
@@ -1178,7 +1178,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo11.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11-76x128.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
               "link": "Home.html",
@@ -1270,13 +1270,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/yousef-1.png",
+              "src": "@PROJECT_PATH@/assets/images/yousef-600x612.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Yousef Yaghoub",
+              "title": "Yousef Yaghoub",
               "linkInNewWindow": false
             }
           },
@@ -1286,13 +1286,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"ContactUs.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ali-2.png",
+              "src": "@PROJECT_PATH@/assets/images/ali-600x635.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Ali Yaghoub",
+              "title": "Ali Yaghoub",
               "linkInNewWindow": false
             }
           },
@@ -1463,7 +1463,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo11.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11-76x128.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
               "link": "Home.html",
@@ -1634,7 +1634,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo11.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11-76x128.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
               "link": "Home.html",
@@ -1730,13 +1730,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/family.png",
+              "src": "@PROJECT_PATH@/assets/images/family-600x421.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Family",
+              "title": "Family",
               "linkInNewWindow": false
             }
           },
@@ -1746,13 +1746,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"ContactUs.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Quote Now</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/marry.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bride-and-groom-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Honeymoon",
+              "title": "Honeymoon",
               "linkInNewWindow": false
             }
           },
@@ -1762,13 +1762,13 @@
           "button2": "<a data-app-btn=\"true\" href=\"ContactUs.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Quote Now</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/action.jpg",
+              "src": "@PROJECT_PATH@/assets/images/action-1867052-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Adventure",
+              "title": "Adventure",
               "linkInNewWindow": false
             }
           },
