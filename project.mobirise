@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home.html",
+    "currentPage": "ContactUs.html",
     "name": "Alsalam Halal Tours",
     "theme": {
       "name": "mobirise3",
@@ -261,7 +261,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
-              "link": "#bottom",
+              "link": "Home.html",
               "title": "Alsalam Halal Tours",
               "linkInNewWindow": false
             },
@@ -796,7 +796,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
-              "link": "#bottom",
+              "link": "Home.html",
               "title": "Alsalam Halal Tours",
               "linkInNewWindow": false
             },
@@ -1181,7 +1181,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
-              "link": "#bottom",
+              "link": "Home.html",
               "title": "Alsalam Halal Tours",
               "linkInNewWindow": false
             },
@@ -1466,7 +1466,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
-              "link": "#bottom",
+              "link": "Home.html",
               "title": "Alsalam Halal Tours",
               "linkInNewWindow": false
             },
@@ -1637,7 +1637,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo11.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
-              "link": "#bottom",
+              "link": "Home.html",
               "title": "Alsalam Halal Tours",
               "linkInNewWindow": false
             },
