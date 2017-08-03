@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ContactUs.html",
+    "currentPage": "Attractions.html",
     "name": "Alsalam Halal Tours",
     "theme": {
       "name": "mobirise3",
@@ -793,7 +793,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo11.png",
+              "src": "@PROJECT_PATH@/assets/images/logo11-76x128.png",
               "height": 128,
               "alt": "Design By Athar Yaghoub @2017",
               "link": "Home.html",
@@ -881,13 +881,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/calm-sea.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cape-palliser-lighthouse-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Wellington",
+              "title": "Wellington",
               "linkInNewWindow": false
             }
           },
@@ -897,13 +897,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com.au/maps/place/Wellington,+New+Zealand/@-41.244027,174.6217691,11z/data=!3m1!4b1!4m5!3m4!1s0x6d38b1fc49e974cb:0xa00ef63a213b470!8m2!3d-41.2864603!4d174.776236\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/night.jpg",
+              "src": "@PROJECT_PATH@/assets/images/auckland-1137602-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Auckland",
+              "title": "Auckland",
               "linkInNewWindow": false
             }
           },
@@ -913,13 +913,13 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.au/maps/place/Auckland,+New+Zealand/@-36.8621448,174.5852759,10z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47fb5a9ce6fb:0x500ef6143a29917!8m2!3d-36.8484597!4d174.7633315\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/huka-river.jpg",
+              "src": "@PROJECT_PATH@/assets/images/huka-river-50911-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Taupo",
+              "title": "Taupo",
               "linkInNewWindow": false
             }
           },
@@ -929,13 +929,13 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.au/maps/place/Taupo,+New+Zealand/@-38.6896719,175.9749718,12z/data=!3m1!4b1!4m5!3m4!1s0x6d6bef77144b165b:0x500ef6143a309e0!8m2!3d-38.6856924!4d176.0702098\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/new-zealand.jpg",
+              "src": "@PROJECT_PATH@/assets/images/new-zealand-113731-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Rotorua",
+              "title": "Rotorua",
               "linkInNewWindow": false
             }
           },
@@ -1006,13 +1006,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/new.jpg",
+              "src": "@PROJECT_PATH@/assets/images/new-2152329-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Glacier",
+              "title": "Glacier",
               "linkInNewWindow": false
             }
           },
@@ -1022,13 +1022,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://www.google.com.au/maps/place/Franz+Josef+Glacier/@-43.4908844,170.1466013,10z/data=!4m8!1m2!2m1!1sGlacier,+New+Zealand!3m4!1s0x6d2bd15fbd26651d:0xbd07539505b2146b!8m2!3d-43.4638606!4d170.1882529\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sunrise.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sunrise-1226485-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Kaikoura",
+              "title": "Kaikoura",
               "linkInNewWindow": false
             }
           },
@@ -1038,13 +1038,13 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.au/maps/place/Kaikoura,+New+Zealand/@-42.4063812,173.6538009,13z/data=!3m1!4b1!4m5!3m4!1s0x6d3a203a34917c75:0x500ef8684799936!8m2!3d-42.4008174!4d173.681386\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/queenstown.jpg",
+              "src": "@PROJECT_PATH@/assets/images/queenstown-2529295-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Queenstown",
+              "title": "Queenstown",
               "linkInNewWindow": false
             }
           },
@@ -1054,13 +1054,13 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://www.google.com.au/maps/place/Queenstown,+New+Zealand/@-45.024339,168.6218147,12z/data=!3m1!4b1!4m5!3m4!1s0xa9d51df1d7a8de5f:0x500ef868479a600!8m2!3d-45.0311622!4d168.6626435\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nelson.png",
+              "src": "@PROJECT_PATH@/assets/images/nelson-600x425.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Nelson",
+              "title": "Nelson",
               "linkInNewWindow": false
             }
           },
